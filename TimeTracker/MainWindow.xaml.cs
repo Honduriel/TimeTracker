@@ -23,6 +23,9 @@ namespace TimeTracker
         public MainWindow()
         {
             InitializeComponent();
+            Initialize();
         }
+
+        private void Initialize() { }
     }
 }
